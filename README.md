@@ -1,6 +1,4 @@
-# GNNs
-Building different graph neural networks from scratch
-
-## Traffic Prediction with GNN
+#GNNs
+Experimenting with new GNN architectures on molecule, trafic, weather, and brain modelling.
 
 ![GNN Traffic Prediction](node-level/gnn_traffic_PERFECT.gif)
