@@ -1,2 +1,4 @@
 *.mp4
 node-level/PeMSD7_Full/
+graph-level/wb2_64x32_weather_2020-2023.zarr
+*.pt
